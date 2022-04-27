@@ -17,7 +17,7 @@
 </script>
 
 <h2>
-	{$LL.HI({ year: 2021 })}
+	{$LL.HI({ name: 'User' })}
 </h2>
 
 <h3>
